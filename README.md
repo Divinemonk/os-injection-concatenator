@@ -36,8 +36,6 @@ However, in some cases, the improper handling of special characters can lead to 
 |`&&`|	Uses conditional execution; executes the next command if the previous one succeeds|Uses conditional execution; executes the next command if the previous one succeeds|
 
 <br>
-<hr>
-<br>
 
 ## Prevent OS injection vulnerabilities
 > It's important to follow secure coding practices
