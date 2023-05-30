@@ -2,12 +2,7 @@
 
 > Linux &amp; Windows special characters that can be use to concatenate system (terminal/commandline) commands
 
-<br>
-
-## Index
-- goto [use case](#use-case)
-- goto [main table](#special-characters-w-os-specific-description)
-- goto [prevention measures](#prevent-os-injection-vulnerabilities)
+- goto [use case](#use-case) / [main table](#special-characters-w-os-specific-description) / [prevention measures](#prevent-os-injection-vulnerabilities)
 
 
 <br>
