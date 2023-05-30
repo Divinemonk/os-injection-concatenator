@@ -3,7 +3,7 @@
 > Linux &amp; Windows special characters that can be use to concatenate system (terminal/commandline) commands
 
 
-goto [main table](#special-characters-w-os-specific-description)
+- goto [main table](#special-characters-w-os-specific-description)
 
 
 <br>
