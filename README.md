@@ -2,9 +2,13 @@
 
 > Linux &amp; Windows special characters that can be use to concatenate system (terminal/commandline) commands
 
+
+goto [main table](#special-characters-w/-os-specific-description)
+
+
 <br>
 
-## Use case
+# Use case
 It's important to note that the use of special characters for command concatenation, as described earlier, is not directly related to OS injection vulnerabilities. OS injection vulnerabilities typically occur when untrusted input is passed to an operating system command without proper sanitization or validation.
 
 However, in some cases, the improper handling of special characters can lead to OS injection vulnerabilities. If user-supplied input is concatenated directly into a command without proper validation or escaping, an attacker may be able to inject additional commands or manipulate the execution flow. This can be especially risky when user input is combined with special characters used for command concatenation.
